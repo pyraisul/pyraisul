@@ -2,8 +2,8 @@
 
 Welcome to my GitHub profile! I'm a software developer passionate about [list your passions/interests]. I love working on projects related to [your fields of interest], and I'm always open to collaboration!
 
-## profile View
 ![Profile Views](https://github-readme-stats.vercel.app/api?username=pyraisul&show_icons=true&count_private=true)
+
 
 ## My GitHub Stats
 
